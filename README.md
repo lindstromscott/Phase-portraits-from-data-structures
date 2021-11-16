@@ -1,3 +1,6 @@
+![30104573 small](https://user-images.githubusercontent.com/30104573/141884925-8b6e236a-8185-44fd-827a-ac8d72019a13.png)
+
+
 I wrote this code for the associated book chapter:
 
 Scott B. Lindstrom, (2020) The Art of Modern Homo Habilis Mathematicus, or: What Would Jon Borwein Do?. In: Sriraman B. (eds) Handbook 
